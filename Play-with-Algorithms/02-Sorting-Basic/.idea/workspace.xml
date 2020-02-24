@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c71bf6de-6dc2-4423-bddf-4e73430271e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Environments/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\Environments\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XeQeartbmXGg0l6yP1fcP8vsX5" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Optional-03-Shell-Sort/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\imooc\Play-with-Algorithms\02-Sorting-Basic\Optional-03-Shell-Sort\src" />
+      <recent name="D:\IdeaProjects\imooc\Play-with-Algorithms\02-Sorting-Basic\Optional-02-Bubble-Sort\src" />
+      <recent name="D:\IdeaProjects\imooc\Play-with-Algorithms\02-Sorting-Basic\Optional-01-Optimized-Selection-Sort\src" />
+      <recent name="D:\IdeaProjects\imooc\Play-with-Algorithms\02-Sorting-Basic\Chapter-02-Completed-Code\src" />
+      <recent name="D:\IdeaProjects\imooc\Play-with-Algorithms\02-Sorting-Basic\06-Insertion-Sort-Advance\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SelectionSort2">
+    <configuration name="InsertionSort (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.InsertionSort" />
+      <module name="06-Insertion-Sort-Advance" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.Main" />
+      <module name="Optional-01-Optimized-Selection-Sort" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.Main" />
+      <module name="06-Insertion-Sort-Advance" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSort (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.SelectionSort" />
+      <module name="Optional-01-Optimized-Selection-Sort" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.SelectionSort2" />
+      <module name="Optional-01-Optimized-Selection-Sort" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SelectionSort2" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.SelectionSort (1)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.InsertionSort (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="224" y="0" key="#Project_Structure" timestamp="1581408658202">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="224" y="0" key="#Project_Structure/0.0.1463.783@0.0.1463.783" timestamp="1581408658202" />
+    <state width="1410" height="174" key="GridCell.Tab.0.bottom" timestamp="1581475185873">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1410" height="174" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1581475185873" />
+    <state width="1410" height="174" key="GridCell.Tab.0.center" timestamp="1581475185872">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1410" height="174" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1581475185872" />
+    <state width="1410" height="174" key="GridCell.Tab.0.left" timestamp="1581475185870">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1410" height="174" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1581475185870" />
+    <state width="1410" height="174" key="GridCell.Tab.0.right" timestamp="1581475185873">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1410" height="174" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1581475185873" />
+    <state x="0" y="0" key="new project wizard" timestamp="1581475180759">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1463.783@0.0.1463.783" timestamp="1581475180759" />
+    <state x="310" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1581414838862">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="310" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1463.783@0.0.1463.783" timestamp="1581414838862" />
+  </component>
+</project>

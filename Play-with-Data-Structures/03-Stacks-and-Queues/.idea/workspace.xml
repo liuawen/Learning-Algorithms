@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00d923f5-23a4-48fa-b973-77ee41dc4c78" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Environments/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\Environments\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xou8sCM7faPXot3mBG6pgurFkO" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/05-Array-Queue/src/main/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.excludes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\imooc\Play-with-Data-Structures\03-Stacks-and-Queues\05-Array-Queue\src\main\java" />
+      <recent name="D:\IdeaProjects\imooc\Play-with-Data-Structures\03-Stacks-and-Queues\02-Array-Stack\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="ArrayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayQueue" />
+      <module name="05-Array-Queue" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="05-Array-Queue" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="02-Array-Stack" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.ArrayQueue" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1340" height="161" key="GridCell.Tab.0.bottom" timestamp="1581835225050">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1340" height="161" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1581835225050" />
+    <state width="1340" height="161" key="GridCell.Tab.0.center" timestamp="1581835225049">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1340" height="161" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1581835225049" />
+    <state width="1340" height="161" key="GridCell.Tab.0.left" timestamp="1581835225049">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1340" height="161" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1581835225049" />
+    <state width="1340" height="161" key="GridCell.Tab.0.right" timestamp="1581835225049">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1340" height="161" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1581835225049" />
+    <state width="1339" height="203" key="GridCell.Tab.1.bottom" timestamp="1581773872561">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1339" height="203" key="GridCell.Tab.1.bottom/0.0.1463.783@0.0.1463.783" timestamp="1581773872561" />
+    <state width="1339" height="203" key="GridCell.Tab.1.center" timestamp="1581773872560">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1339" height="203" key="GridCell.Tab.1.center/0.0.1463.783@0.0.1463.783" timestamp="1581773872560" />
+    <state width="1339" height="203" key="GridCell.Tab.1.left" timestamp="1581773872560">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1339" height="203" key="GridCell.Tab.1.left/0.0.1463.783@0.0.1463.783" timestamp="1581773872560" />
+    <state width="1339" height="203" key="GridCell.Tab.1.right" timestamp="1581773872561">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1339" height="203" key="GridCell.Tab.1.right/0.0.1463.783@0.0.1463.783" timestamp="1581773872561" />
+    <state x="117" y="0" key="SettingsEditor" timestamp="1581781944773">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="117" y="0" key="SettingsEditor/0.0.1463.783@0.0.1463.783" timestamp="1581781944773" />
+    <state x="0" y="23" key="new project wizard" timestamp="1581780804429">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="0" y="23" key="new project wizard/0.0.1463.783@0.0.1463.783" timestamp="1581780804429" />
+  </component>
+</project>

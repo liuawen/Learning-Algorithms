@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02-Java-Swing-Basics/01-About-Java-GUI/01-About-Java-GUI.iml" filepath="$PROJECT_DIR$/02-Java-Swing-Basics/01-About-Java-GUI/01-About-Java-GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Java-Swing-Basics/02-Java-Swing-Basics.iml" filepath="$PROJECT_DIR$/02-Java-Swing-Basics/02-Java-Swing-Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Play-with-Algorithm-Visualization.iml" filepath="$PROJECT_DIR$/Play-with-Algorithm-Visualization.iml" />
+    </modules>
+  </component>
+</project>

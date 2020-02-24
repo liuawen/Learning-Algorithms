@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-Selection-Sort/01-Selection-Sort.iml" filepath="$PROJECT_DIR$/01-Selection-Sort/01-Selection-Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Selection-Sort-Using-Comparable/02-Selection-Sort-Using-Comparable.iml" filepath="$PROJECT_DIR$/02-Selection-Sort-Using-Comparable/02-Selection-Sort-Using-Comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Sorting-Basic.iml" filepath="$PROJECT_DIR$/02-Sorting-Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Selection-Sort-Generate-Test-Cases/03-Selection-Sort-Generate-Test-Cases.iml" filepath="$PROJECT_DIR$/03-Selection-Sort-Generate-Test-Cases/03-Selection-Sort-Generate-Test-Cases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Selection-Sort-Detect-Performance/04-Selection-Sort-Detect-Performance.iml" filepath="$PROJECT_DIR$/04-Selection-Sort-Detect-Performance/04-Selection-Sort-Detect-Performance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Insertion-Sort/05-Insertion-Sort.iml" filepath="$PROJECT_DIR$/05-Insertion-Sort/05-Insertion-Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Insertion-Sort-Advance/06-Insertion-Sort-Advance.iml" filepath="$PROJECT_DIR$/06-Insertion-Sort-Advance/06-Insertion-Sort-Advance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter-02-Completed-Code/Chapter-02-Completed-Code.iml" filepath="$PROJECT_DIR$/Chapter-02-Completed-Code/Chapter-02-Completed-Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Optional-01-Optimized-Selection-Sort/Optional-01-Optimized-Selection-Sort.iml" filepath="$PROJECT_DIR$/Optional-01-Optimized-Selection-Sort/Optional-01-Optimized-Selection-Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Optional-02-Bubble-Sort/Optional-02-Bubble-Sort.iml" filepath="$PROJECT_DIR$/Optional-02-Bubble-Sort/Optional-02-Bubble-Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Optional-03-Shell-Sort/Optional-03-Shell-Sort.iml" filepath="$PROJECT_DIR$/Optional-03-Shell-Sort/Optional-03-Shell-Sort.iml" />
+    </modules>
+  </component>
+</project>
