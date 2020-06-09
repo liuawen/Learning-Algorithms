@@ -4,7 +4,7 @@ package 排序_数组;
  * https://leetcode-cn.com/problems/merge-sorted-array/
  * 合并两个有序数组
  * @author Liu Awen Email:willowawen@gmail.com
- * @create 2020-04-29 11:01
+ * @create 2020-04-29
  */
 public class _0088_合并两个有序数组 {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
