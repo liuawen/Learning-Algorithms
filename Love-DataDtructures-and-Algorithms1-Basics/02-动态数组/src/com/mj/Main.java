@@ -5,10 +5,12 @@ public class Main {
 
 	public static void main(String[] args) {
 		ArrayList<Object> list  = new ArrayList<>();
+		//Object  什么都可以add了
 		list.add(10);
 		list.add(new Person(10, "Jack"));
 		list.add(22);
 		
+		//找元素下标的位置
 		list.indexOf(new Person(10, "Jack"));
 		
 		
