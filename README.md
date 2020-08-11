@@ -1,5 +1,7 @@
 Learning
 
+Play Algorithm by Java
+
 - 互联网公司面试真题         LeetCode ...
 
 - 玩转算法面试-- Leetcode真题分门别类讲解  Play-LeetCode-Explore
@@ -19,6 +21,8 @@ Learning
    Algorithm problem  - Love data structures and algorithms
 
 - Google面试官亲授-Java面试新手尊享课  Google-Interview
+
+- 重学数据结构与算法 lagou - Relearn-DataStructures-and-Algorithms 
 
 - 蓝桥-lanqiao
 
