@@ -1,4 +1,4 @@
-package code.ch01.ch02;
+package code.ch02;
 
 import java.util.HashMap;
 
